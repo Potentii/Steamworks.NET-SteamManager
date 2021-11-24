@@ -1,0 +1,21 @@
+{
+	"name": "steamworks.net-steammanager",
+	"displayName": "Steamworks.NET-SteamManager",
+	"version": "1.0.15",
+	"unity": "2021.2",
+	"author": {
+		"name": "rlabrecque",
+		"url": "https://github.com/rlabrecque"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Potentii/Steamworks.NET-SteamManager.git"
+	},
+	"keywords": [
+		"steam",
+		"manager",
+		"multiplayer"
+	],
+	"description": "SteamManager for Unity wrapped in a UPM package, for the SteamManager repo itself check out https://github.com/rlabrecque/Steamworks.NET-SteamManager"
+}
