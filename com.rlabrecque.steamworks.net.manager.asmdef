@@ -1,13 +1,12 @@
 {
-    "name": "SteamManager",
-    "rootNamespace": "SteamworksManager",
+    "name": "com.rlabrecque.steamworks.net.manager",
+    "rootNamespace": "",
     "references": [
         "Steamworks"
     ],
-    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
-    "overrideReferences": false,
+    "overrideReferences": true,
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
