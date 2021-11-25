@@ -1,7 +1,8 @@
 {
     "name": "com.rlabrecque.steamworks.net.manager",
+    "rootNamespace": "",
     "references": [
-        "Steamworks"
+        "com.rlabrecque.steamworks.net"
     ],
     "includePlatforms": [
         "Editor",
